@@ -34,4 +34,101 @@
 
 * You can use any packages that your team find useful;
 
-  
+### Output Example
+
+```
+2014
+        Algeria
+        Argentina
+        Australia
+        Belgium
+        Bosnia-Herzegovina
+        Brazil
+        Cameroon
+        Chile
+        Colombia
+        Costa Rica
+        Croatia
+        Côte d'Ivoire
+        Ecuador
+        England
+        France
+        Germany
+        Ghana
+        Greece
+        Honduras
+        Iran
+        Italy
+        Japan
+        Mexico
+        Netherlands
+        Nigeria
+        Portugal
+        Russia
+        South Korea
+        Spain
+        Switzerland
+        United States
+        Uruguay
+2018
+        Argentina
+        Australia
+        Belgium
+        Brazil
+        Colombia
+        Costa Rica
+        Croatia
+        Denmark
+        Egypt
+        England
+        France
+        Germany
+        Iceland
+        Iran
+        Japan
+        Mexico
+        Morocco
+        Nigeria
+        Panama
+        Peru
+        Poland
+        Portugal
+        Russia
+        Saudi Arabia
+        Senegal
+        Serbia
+        South Korea
+        Spain
+        Sweden
+        Switzerland
+        Tunisia
+        Uruguay
+diff
+        Denmark was present in 2018 but not in 2014
+        Egypt was present in 2018 but not in 2014
+        Iceland was present in 2018 but not in 2014
+        Morocco was present in 2018 but not in 2014
+        Panama was present in 2018 but not in 2014
+        Peru was present in 2018 but not in 2014
+        Poland was present in 2018 but not in 2014
+        Saudi Arabia was present in 2018 but not in 2014
+        Senegal was present in 2018 but not in 2014
+        Serbia was present in 2018 but not in 2014
+        Sweden was present in 2018 but not in 2014
+        Tunisia was present in 2018 but not in 2014
+
+        Algeria was present in 2014 but not in 2018
+        Bosnia-Herzegovina was present in 2014 but not in 2018
+        Cameroon was present in 2014 but not in 2018
+        Chile was present in 2014 but not in 2018
+        Côte d'Ivoire was present in 2014 but not in 2018
+        Ecuador was present in 2014 but not in 2018
+        Ghana was present in 2014 but not in 2018
+        Greece was present in 2014 but not in 2018
+        Honduras was present in 2014 but not in 2018
+        Italy was present in 2014 but not in 2018
+        Netherlands was present in 2014 but not in 2018
+        United States was present in 2014 but not in 2018
+        
+```
+
