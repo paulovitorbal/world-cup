@@ -3,7 +3,7 @@
 ## Objective
 
 * Show which teams participate in each cup;
-* Show the a list of the teams that participate in only one cup (and say which one) and not in the other;
+* Show the a list of the teams that participate in only one cup (and say which one) and not in the other, of two championships;
 * The application should be available through the command line interface;
 
 ### Links:
