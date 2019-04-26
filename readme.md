@@ -12,7 +12,7 @@
 
 * [World Cup 2018 - JSON](https://raw.githubusercontent.com/openfootball/world-cup.json/master/2018/worldcup.teams.json)
 
-  
+* [World Cup 2010 - TXT](https://raw.githubusercontent.com/openfootball/world-cup/master/2010--south-africa/cup.txt)  
 
 ### Acceptance criteria
 
